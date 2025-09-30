@@ -6,9 +6,10 @@ matplotlib==3.7.2
 plotly==5.16.1
 
 pandas==2.0.3
-setuptools>=58.0.4
-wheel>=0.37.0
+setuptools>=68.0.0
+wheel
 pip>=21.0.0
 
 gunicorn==21.2.0 
 SQLAlchemy==2.0.23
+
